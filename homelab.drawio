@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram name="Page-1" id="80n29I5SFY9mNu651d-D">
-    <mxGraphModel dx="2254" dy="472" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#3D3D3A,#242422)" math="0" shadow="0">
+    <mxGraphModel dx="4802" dy="2413" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#3D3D3A,#242422)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,6 +292,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uvhbOQGJQU_6OU1mkqDk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;labelBackgroundColor=none;entryX=0.08;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;curved=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="1CQjysD83conFf0FVgbC-104" target="uvhbOQGJQU_6OU1mkqDk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="-275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-783" y="-293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1CQjysD83conFf0FVgbC-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ISP fiber router &lt;font color=&quot;#999999&quot;&gt;(Wi-Fi disabled)&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#945500&quot;&gt;192.168.1.1&lt;/font&gt;/24&lt;/b&gt; / &lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#945500&quot;&gt;192.168.2.1&lt;/font&gt;/24&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="fontColor=#EEEEEE;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=left;html=1;outlineConnect=0;fillColor=#2E2E2D;strokeColor=#C1DF11;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(xVdNc4IwEP01XJ18gMKxQ+3RQ3vomWJsM0XCBNS2v76BkGrAQMB0VGeYvA373mazm+jhuPxICuIhkJQFSSsPP3oIHRNOk7dMwEhYPiSIIjnMkz2RyDM7VIRLtKw4+yQnuq3UdImf5AgCUI/x2gMPAq1/OE5ZngtOyvJSs1zYhduE5pVGu5GeC8LpntQCGhRI9KsdLQI5/tasHnqawvQygwnOYnq1YdIjUrwTmdYWTNAJ08YqqAXoZOoPmJosOzroIFsbm0UEi8hVZJZ0NpHhWCCmwsPxjnHyztkh314V2Fh43SdEw+BpSX9aiUqMKv7gWvWbdvLwouxolsnuMjCp1dTS+xp72NncOjsayYkVfT0pZRkTzRDIZ+PbQzhYie8IBckyWpTkrB8u9eVbagGEegD+WHnW4mZpJ81nonZ97X1duSY8vEn2JGJ4N+b7xYxdMl8e74LvfMyPNNAiqSf2DMq8Z0dysT10xash18pDRnOzBzgYtEEE7B7oaLjADEqCmW50NVHvejFLTeQ7URMuNSfRzQmakeIITNcwGIXqrv++zwbjsFPRCQR3szpyVXO8VTtuempGTibDjkdOgnJVOD01o8etwA1dT7XRKy83r/UuXw0q/6A1wC8=);spacingBottom=0;spacing=2;fontSize=14;fontFamily=Roboto Condensed;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="-833" y="195" width="100" height="30" as="geometry" />
         </mxCell>
@@ -302,6 +310,20 @@
               <mxPoint x="1728" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uvhbOQGJQU_6OU1mkqDk-2" value="&lt;font face=&quot;Titillium Web&quot;&gt;NextDNS&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;shadow=1;glass=0;dashed=1;comic=0;strokeWidth=3;fontSize=22;align=right;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=0;horizontal=1;spacingLeft=0;connectable=1;container=1;collapsible=0;recursiveResize=0;dashPattern=4 3 4 3 4 3 36 3;spacingRight=15;sketch=0;fillStyle=auto;fillColor=#111111;strokeColor=#0071FE;fontColor=#EEEEEE;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-605" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhbOQGJQU_6OU1mkqDk-3" value="NextDNS Pro&lt;div&gt;&lt;font face=&quot;Roboto Condensed&quot; style=&quot;font-style: normal; font-weight: normal;&quot; color=&quot;#999999&quot;&gt;From fellow nerd&lt;/font&gt;&lt;/div&gt;" style="fontColor=#EEEEEE;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=none;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDBCoMwEES/Zo+VmGj1Wmw9FS/9gtWmKlQjSbT277u6SBEhgeybZZgJqMw1OGiQAt2gKw/qClJOaFss34QlKQ3DUAqee+w0o0LP/lo8iN1NbVj97LbVDcQFlrcAlb2M1bU1Y//cCZvcdlgvUZyt2KTxfnCgaC+ngxN6tC6oW9+M5ei0rUzvde+DynSkj3SjVKUiOceg8ok8Is40s91JiSCJGX2PaEuehkG8b/4nS5J9JyKHWivlj13BDw==);labelBackgroundColor=none;rounded=1;dashed=1;aspect=fixed;fontSize=14;fontFamily=Titillium Web;fontStyle=3" vertex="1" parent="uvhbOQGJQU_6OU1mkqDk-2">
+          <mxGeometry x="20" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uvhbOQGJQU_6OU1mkqDk-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=#000000;labelBackgroundColor=none;endArrow=none;endFill=0;entryX=0.65;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uvhbOQGJQU_6OU1mkqDk-3" target="uvhbOQGJQU_6OU1mkqDk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvhbOQGJQU_6OU1mkqDk-4" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Series&lt;br style=&quot;font-size: 72px;&quot;&gt;of&amp;nbsp;tubes&lt;/font&gt;&lt;/p&gt;" style="html=1;outlineConnect=0;fillColor=#2E2E2D;strokeColor=#C1DF11;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#EEEEEE;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;perimeter=stepPerimeter;spacingBottom=-80;spacingTop=0;spacingLeft=95;fontSize=72;aspect=fixed;fontStyle=2;fontFamily=Titillium Web;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium%2BWeb;disableMultiStroke=1;disableMultiStrokeFill=0;hachureGap=23;fillStyle=solid;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillWeight=10;perimeterSpacing=0;points=[[0.06,0.5,0,0,0],[0.08,0.7,0,0,0],[0.14,1,0,0,0],[0.26,0.22,0,0,0],[0.5,0.08,0,0,0],[0.5,1,0,0,0],[0.65,0.24,0,0,0],[0.7,0.07,0,0,0],[0.88,1,0,0,0],[0.91,0.5,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="-215" y="-524" width="600" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
